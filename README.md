@@ -1,2 +1,2 @@
 # sample
-to learn about github basic
+To learn about github basic.
